@@ -294,7 +294,7 @@ local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/lolimluke/
 lib.theme.accentcolor = Color3.fromRGB(0, 255, 255)
 lib.theme.accentcolor2 = Color3.fromRGB(0, 255, 255)
 lib.theme.fontsize = 16.9
-local Window = lib:CreateWindow("JameScript.win | 0.0.2 dev", Vector2.new(492, 598), Enum.KeyCode.RightControl)local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
+local Window = lib:CreateWindow("JameScript.win | 0.0.2", Vector2.new(492, 598), Enum.KeyCode.RightControl)local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
 local Notify = NotifyLibrary.Notify
 lib.theme.font = Enum.Font.Code
 local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
